@@ -2,7 +2,7 @@
 
 Aplicativo web estático feito em HTML, CSS e JavaScript para demonstrar abertura, acompanhamento e atualização de chamados de suporte.
 
-**Acesso online (GitHub Pages):** https://augusto-datore.github.io/Service/
+**Acesso online (GitHub Pages):** https://augusto-datore.github.io/ServiceDesk/
 
 ## Como executar
 
