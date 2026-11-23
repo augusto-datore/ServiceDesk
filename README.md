@@ -8,8 +8,7 @@ Aplicativo web estático feito em HTML, CSS e JavaScript para demonstrar abertur
 
 O projeto não precisa de servidor local, Node.js, Python ou instalação de dependências.
 
-1. Abra a pasta `service-desk`. ou
-2. Abra diretamente o arquivo `index.html` em um navegador moderno.
+Abra o arquivo `index.html` em um navegador moderno.
 
 ## Funcionalidades
 
@@ -36,7 +35,6 @@ A opção **Limpar base local** pede confirmação e restaura os chamados de dem
 - `index.html`: estrutura e conteúdo das telas.
 - `styles.css`: aparência, layout e responsividade.
 - `app.js`: interações, validações, histórico e persistência local.
-- `abrir-service-desk.bat`: atalho para abrir o aplicativo no navegador.
 
 ## Observações
 
